@@ -1,5 +1,4 @@
 import React from 'react';
-
 import './top-nav.css';
 
 export default function TopNav(props) {
